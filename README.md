@@ -5,7 +5,7 @@ This analysis was completed for a ficticious ride share company Pyber to analyse
 
 ## Results
 
-<img width="383" alt="summary_df" src="https://user-images.githubusercontent.com/95047485/150694176-6dbc521e-17fe-4730-a7e1-2d1eeb6dccef.PNG">
+<img width="686" alt="summary_df" src="https://user-images.githubusercontent.com/95047485/150694176-6dbc521e-17fe-4730-a7e1-2d1eeb6dccef.PNG">
 
 
 There is a noticable difference between the amount of drivers and rides given between the 3 city types. In both rural and suburban areas the drivers all average more than one ride given. However, in urban cities there are more drivers and the total rides are less than one ride per driver. The urban markets are saturated with many drivers so fares are cheaper and the average fare per driver is much lower than rural/suburan areas. Urban areas are the most profitable for PyBer, with total fares for urban areas being greater than rural and suburban combined. 
